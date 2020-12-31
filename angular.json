@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "pipes"
+  "defaultProject": "pipes",
+  "cli": {
+    "analytics": "813db399-9685-4c7b-bd26-99adaf277228"
+  }
 }
